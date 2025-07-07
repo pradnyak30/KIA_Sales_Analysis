@@ -49,20 +49,5 @@ This project features an interactive Power BI dashboard that provides dynamic in
 
 ---
 
-## 🚀 How to Use
 
-1. Install **Power BI Desktop** from [Microsoft Store](https://apps.microsoft.com/detail/9NTXR16HNW1T).
-2. Download the `.pbix` file from this repo.
-3. Open `sip_dashboard.pbix` in Power BI Desktop.
-4. Explore and interact with visuals and filters to gain insights.
-
----
-
-## 📸 Dashboard Preview
-
-*(Add screenshots of key dashboard visuals here in a folder named `/images`)*
-
-| Overview Page | Trends Page |
-|---------------|-------------|
-| ![Dashboard Overview](images/overview.png) | ![Trend Analysis](images/trend.png) |
 
