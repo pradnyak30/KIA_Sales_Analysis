@@ -66,18 +66,3 @@ This project features an interactive Power BI dashboard that provides dynamic in
 |---------------|-------------|
 | ![Dashboard Overview](images/overview.png) | ![Trend Analysis](images/trend.png) |
 
----
-
-## 📬 Contact
-
-Feel free to connect for collaboration or suggestions!
-
-**Pradnya Kamble**  
-📧 your.email@example.com  
-📍 Pune, India
-
----
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
